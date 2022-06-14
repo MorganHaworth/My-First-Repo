@@ -1,0 +1,13 @@
+h1 {
+    font-weight: normal;
+    color: cornflowerblue;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    color: yellowgreen;
+    font-style: italic;
+}
